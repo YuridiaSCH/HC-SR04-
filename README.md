@@ -7,6 +7,8 @@
 ## ¿QUE ES? 
 > Sensor de distancia de bajo costo, su uso es muy frecuente en la robótica, utiliza transductores de ultrasonido para detectar objetos en un rango de 2 a 450 cm.
 
+![](https://dualtronica.com/2252-home_default/sensor-ultrasonido-hc-sr04.jpg)
+
 ## CARACTERISTICAS.
 > Costo: $14 - $60 Pesos.
 
@@ -43,6 +45,8 @@
 
 > Programación con las placas de desarrollo.
 
+![](https://howtomechatronics.com/wp-content/uploads/2022/02/HC-SR04-Ultrasonic-Sensor-3D-Model.jpg)
+
 ## ¿COMO FUNCIONA?
 > Incorpora un par de transductores de ultrasonido que se utilizan de manera conjunta para determinar la distancia del sensor con un objeto colocado enfrente de este. 
 > Un transductor emite una “ráfaga” de ultrasonido y el otro capta el rebote de dicha onda.
@@ -59,13 +63,17 @@
 
 > VCC: Alimentación positiva. 
 
-## <strong> FORMULA PARA CALCULAR LA DISTANCIA EN LA QUE SE ENCUENTRA UN OBJETO </strong>
- > Distancia = ( Tiempo_medido ) * (velocidad_del_sonido) / 2
+![](https://uelectronics.com/wp-content/uploads/2017/06/AR0008-Sensor-Ultrasonico-V4.jpg)
+
+##  FORMULA PARA CALCULAR LA DISTANCIA EN LA QUE SE ENCUENTRA UN OBJETO 
+![](https://www.luisllamas.es/wp-content/uploads/2015/06/sensor-ultrasonico-explicacion.png)
  
  ## VENTAJAS.
 > Pese a esta baja precisión, que impide conocer con precisión la distancia a un objeto, los sensores de ultrasonidos son ampliamente empleados. 
 
 > En robótica es habitual montar uno o varios de estos sensiores, por ejemplo, para detección de obstáculos, determinar la posición del robot, crear mapas de entorno, o resolver laberintos.
+ 
+ ![](https://i.ytimg.com/vi/AyE_ChkvvhY/maxresdefault.jpg)
  
  ## DESVENTAJAS
 > Los sensores de ultrasonidos son sensores de baja precisión. 
@@ -76,9 +84,8 @@
 
 > Tampoco son apropiados para el funcionamiento en el exterior y al aire libre.
  
- ## ENTONCES...
+ ![](https://www.masliviano.cl/wp-content/uploads/2016/11/picnic2-620x264.jpg)
  
-> El sensor HC-SR04 es entonces un componentede entrada, es decir, su funcionamiento consiste en entregar la información correspondiente a la distancia a través del tiempo de un pulso en su pin de señal ECHO, la tarjeta Raspberry Pi a su vez recibe la señal y obtiene el tiempo de duración del pulso con uno de sus GPIO configurado como entrada.
  
  ## APLICACIONES.
  > Los sensores ultrasónicos industriales se utilizan principalmente como sensores de proximidad. 
@@ -93,13 +100,17 @@
  
  > La tecnología ultrasónica ha permitido a la industria médica producir imágenes de órganos internos, identificar tumores, etcétera.
  
- <strong> En donde la Velocidad del Sonido es de 343m/s o 0,034cm/ms. </strong>
+![](https://user-images.githubusercontent.com/124212145/223624787-aabe9824-f299-42dd-8431-eaa575cfe6f2.png)
 
-PAGINAS AUXILIARES:
-https://blog.330ohms.com/2021/12/28/tutorial-8-de-raspberry-pi-pico-sensor-ultrasonico/
-https://blog.330ohms.com/2020/06/17/como-conectar-un-sensor-ultrasonico-a-raspberry-pi/#:~:text=El%20sensor%20HC%2DSR04%20nos,rebote%20de%20la%20se%C3%B1al%20ultras%C3%B3nica
-https://blog.330ohms.com/2020/06/17/como-conectar-un-sensor-ultrasonico-a-raspberry-pi/#:~:text=El%20sensor%20HC%2DSR04%20es,con%20uno%20de%20sus%20GPIO
-https://www.murkyrobot.com/guias/sensores/hc-sr04#codigo
-https://www.eneka.com.uy/robotica/sensores/sonido/m%C3%B3dulo-sensor-de-distancias-hc-sr04-detail.html#:~:text=El%20HC%2DSR04%20es%20un,encargada%20de%20hacer%20la%20medici%C3%B3n.
-https://electronicamade.com/sensor-ultrasonico/
+## PAGINAS AUXILIARES.
+
+> https://blog.330ohms.com/2021/12/28/tutorial-8-de-raspberry-pi-pico-sensor-ultrasonico/
+
+> https://blog.330ohms.com/2020/06/17/como-conectar-un-sensor-ultrasonico-a-raspberry-pi/#:~:text=El%20sensor%20HC%2DSR04%20es,con%20uno%20de%20sus%20GPIO
+
+> https://www.murkyrobot.com/guias/sensores/hc-sr04#codigo
+
+> https://www.eneka.com.uy/robotica/sensores/sonido/m%C3%B3dulo-sensor-de-distancias-hc-sr04-detail.html#:~:text=El%20HC%2DSR04%20es%20un,encargada%20de%20hacer%20la%20medici%C3%B3n.
+
+> https://electronicamade.com/sensor-ultrasonico/
 
