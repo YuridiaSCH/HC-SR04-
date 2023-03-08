@@ -1,13 +1,12 @@
 ![](portada.jpg)
 
 # HC-SR04 Ultrasonic Distance Sensor 💻 
-
 ![](https://m.media-amazon.com/images/I/61PwZuGndiS.jpg)
 
 ## 👐🏼 ¿Que es? 🙅🏻‍♀️ 
 > Sensor de distancias por ultrasonidos capaz de detectar objetos y calcular la distancia a la que se encuentra en un rango de 2 a 450 cm. 
 
-![](https://dualtronica.com/2252-home_default/sensor-ultrasonido-hc-sr04.jpg)
+![](https://howtomechatronics.com/wp-content/uploads/2022/02/HC-SR04-Ultrasonic-Sensor-3D-Model.jpg)
 
 ##  👩🏻‍🏫  Caracteristicas ✒️
 > Costo: $14 - $60 Pesos.
@@ -23,8 +22,6 @@
 - Duración del pulso ECO de salida (nivel TTL): 100-25000 μS
 - Dimensiones: 45*20*15 mm
 - Tiempo mínimo de espera entre una medida y el inicio de otra 20ms (recomendable 50ms)
-
-![](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_610/https://electronicamade.com/wp-content/uploads/2020/04/funcionamiento-Ultrasonico-610x471.jpg)
  
 ##  🌟  Destacado Por  🌟 
 
@@ -33,12 +30,13 @@
 - Fácil uso. 
 - Programación con las placas de desarrollo.
 
-![](https://howtomechatronics.com/wp-content/uploads/2022/02/HC-SR04-Ultrasonic-Sensor-3D-Model.jpg)
 
 ##   🤷🏻‍♀️ ¿Como Funciona? 👩🏻‍🔧 
 > Incorpora un par de transductores de ultrasonido que se utilizan de manera conjunta para determinar la distancia del sensor con un objeto colocado enfrente de este. 
 > Un transductor emite una “ráfaga” de ultrasonido y el otro capta el rebote de dicha onda.
 El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse para conocer la distancia que existe entre el origen del sonido y el objeto.
+
+![](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_610/https://electronicamade.com/wp-content/uploads/2020/04/funcionamiento-Ultrasonico-610x471.jpg)
 
 <strong> El Sensor HC-SR04 cuenta con dos transductores ultrasónicos y con 4 terminales de conexión: </strong>
 
@@ -82,7 +80,7 @@ El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse
 
 
 
-## 🗂️ COodigo Utilizado 📋  
+## 🗂️ Codigo Utilizado 📋  
 
 
 
