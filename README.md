@@ -78,7 +78,7 @@ El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse
 
 ## ⚙️ Esquema del Sensor en Uso 📌 
 
-
+![](sensor.png)
 
 ## 🗂️ Codigo Utilizado 📋  
 
