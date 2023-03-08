@@ -114,7 +114,7 @@ while True:
 
 ## 🏁  Link de Woki ⚡
 
-> https://wokwi.com/projects/358610161863645185
+> https://wokwi.com/projects/358611775097975809
 
 
 ## 🖨️ Paginas Auxiliares 📇 
