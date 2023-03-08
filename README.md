@@ -76,10 +76,6 @@ El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse
  
 ![](https://user-images.githubusercontent.com/124212145/223624787-aabe9824-f299-42dd-8431-eaa575cfe6f2.png)
 
-## 🏁  Link de Woki ⚡
-
-> https://wokwi.com/projects/358610161863645185
-
 ## ⚙️ Esquema del Sensor en Uso 📌 
 
 ![](Sensor.png)
@@ -116,6 +112,9 @@ while True:
     utime.sleep(1)
 ```
 
+## 🏁  Link de Woki ⚡
+
+> https://wokwi.com/projects/358611935046736897
 
 ## 🖨️ Paginas Auxiliares 📇 
 
