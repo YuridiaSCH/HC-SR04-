@@ -1,15 +1,12 @@
-# PORTADA
 
-![](EXPOSICION_page-0001.jpg)
+![](portada.jpg)
 
 # HC-SR04 Ultrasonic Distance Sensor
 
-![]([https://m.media-amazon.com/images/I/61PwZuGndiS.jpg](https://github.com/YuridiaSCH/HC-SR04-/blob/main/EXPOSICION%20_page-0001.jpg?raw=true))
+![](https://m.media-amazon.com/images/I/61PwZuGndiS.jpg)
 
 ## ¿QUE ES? 
 > Sensor de distancia de bajo costo, su uso es muy frecuente en la robótica, utiliza transductores de ultrasonido para detectar objetos en un rango de 2 a 450 cm.
-
-
 
 ## CARACTERISTICAS.
 > Voltaje de Operación: 5V DC
