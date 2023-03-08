@@ -1,4 +1,3 @@
-
 ![](portada.jpg)
 
 # HC-SR04 Ultrasonic Distance Sensor
@@ -9,6 +8,8 @@
 > Sensor de distancia de bajo costo, su uso es muy frecuente en la robótica, utiliza transductores de ultrasonido para detectar objetos en un rango de 2 a 450 cm.
 
 ## CARACTERISTICAS.
+> Costo: $14 - $60 Pesos.
+
 > Voltaje de Operación: 5V DC
 
 > Corriente de reposo: < 2mA
@@ -32,8 +33,6 @@
 > Tiempo mínimo de espera entre una medida y el inicio de otra 20ms (recomendable 50ms)
 
 ![](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_610/https://electronicamade.com/wp-content/uploads/2020/04/funcionamiento-Ultrasonico-610x471.jpg)
-
- 
  
 ## DESTACADO POR:
 > Bajo consumo.
