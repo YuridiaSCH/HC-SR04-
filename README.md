@@ -112,7 +112,7 @@ while True:
     utime.sleep(1)
 ```
 
-## 🌈 Link de Woki ⚡ 
+## 🏁  Link de Woki ⚡
 
 > https://wokwi.com/projects/358610161863645185
 
@@ -124,6 +124,5 @@ while True:
 - https://www.murkyrobot.com/guias/sensores/hc-sr04#codigo
 - https://www.eneka.com.uy/robotica/sensores/sonido/m%C3%B3dulo-sensor-de-distancias-hc-sr04-detail.html#:~:text=El%20HC%2DSR04%20es%20un,encargada%20de%20hacer%20la%20medici%C3%B3n.
 - https://electronicamade.com/sensor-ultrasonico/
-
-> https://www.youtube.com/watch?v=e9WXf-wRTNg
+- https://www.youtube.com/watch?v=e9WXf-wRTNg
 
