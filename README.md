@@ -116,6 +116,8 @@ while True:
 
 > https://wokwi.com/projects/358611935046736897
 
+![](wokwi.png)
+
 ## 🖨️ Paginas Auxiliares 📇 
 
 - https://blog.330ohms.com/2021/12/28/tutorial-8-de-raspberry-pi-pico-sensor-ultrasonico/
