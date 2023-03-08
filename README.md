@@ -1,6 +1,6 @@
 # PORTADA
 
-
+![](EXPOSICION_page-0001.jpg)
 
 # HC-SR04 Ultrasonic Distance Sensor
 
