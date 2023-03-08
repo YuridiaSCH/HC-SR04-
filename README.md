@@ -86,13 +86,11 @@ El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse
 
 ## 🖨️ Paginas Auxiliares 📇 
 
-> https://blog.330ohms.com/2021/12/28/tutorial-8-de-raspberry-pi-pico-sensor-ultrasonico/
+- https://blog.330ohms.com/2021/12/28/tutorial-8-de-raspberry-pi-pico-sensor-ultrasonico/
+- https://blog.330ohms.com/2020/06/17/como-conectar-un-sensor-ultrasonico-a-raspberry-pi/#:~:text=El%20sensor%20HC%2DSR04%20es,con%20uno%20de%20sus%20GPIO
+- https://www.murkyrobot.com/guias/sensores/hc-sr04#codigo
+- https://www.eneka.com.uy/robotica/sensores/sonido/m%C3%B3dulo-sensor-de-distancias-hc-sr04-detail.html#:~:text=El%20HC%2DSR04%20es%20un,encargada%20de%20hacer%20la%20medici%C3%B3n.
+- https://electronicamade.com/sensor-ultrasonico/
 
-> https://blog.330ohms.com/2020/06/17/como-conectar-un-sensor-ultrasonico-a-raspberry-pi/#:~:text=El%20sensor%20HC%2DSR04%20es,con%20uno%20de%20sus%20GPIO
-
-> https://www.murkyrobot.com/guias/sensores/hc-sr04#codigo
-
-> https://www.eneka.com.uy/robotica/sensores/sonido/m%C3%B3dulo-sensor-de-distancias-hc-sr04-detail.html#:~:text=El%20HC%2DSR04%20es%20un,encargada%20de%20hacer%20la%20medici%C3%B3n.
-
-> https://electronicamade.com/sensor-ultrasonico/
+> https://www.youtube.com/watch?v=e9WXf-wRTNg
 
