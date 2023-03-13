@@ -63,7 +63,8 @@ El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse
 - Tampoco son apropiados para el funcionamiento en el exterior y al aire libre.
  
  ![](https://www.masliviano.cl/wp-content/uploads/2016/11/picnic2-620x264.jpg)
- 
+ ## 🗂️ Codigo Utilizado 📋  
+
  ## 🛠️ Aplicaciones 👩🏻‍🔧 
  
 - Los sensores ultrasónicos industriales se utilizan principalmente como sensores de proximidad. 
