@@ -107,7 +107,7 @@ def ultra():
     distance = (timepassed * 0.0343) / 2 
     print("La Distancia del Objeto es ",distance,"cm") 
 
-while True: 
+    while True: 
     ultra() 
     utime.sleep(1)
 ```
