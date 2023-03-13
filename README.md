@@ -51,7 +51,7 @@ El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse
 
  ## 🟢 Ventajas  ✅ 
 - Pese a esta baja precisión, que impide conocer con precisión la distancia a un objeto, los sensores de ultrasonidos son ampliamente empleados. 
-- En robótica es habitual montar uno o varios de estos sensiores, por ejemplo, para detección de obstáculos, determinar la posición del robot, crear mapas de entorno, o resolver laberintos.
+- En robótica es habitual montar uno o varios de estos sensores, por ejemplo, para detección de obstáculos, determinar la posición del robot, crear mapas de entorno, o resolver laberintos.
  
  ![](https://i.ytimg.com/vi/AyE_ChkvvhY/maxresdefault.jpg)
 
