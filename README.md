@@ -48,7 +48,7 @@ El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse
 ![](https://uelectronics.com/wp-content/uploads/2017/06/AR0008-Sensor-Ultrasonico-V4.jpg)
 
 ##  📝 Formula para Calcular la Distancia en la que se Encuentra un Objeto 📏 
-![](https://www.luisllamas.es/wp-content/uploads/2015/06/sensor-ultrasonico-explicacion.png)
+![](formula.png)
  
  ## 🟢 Ventajas  ✅ 
 - Pese a esta baja precisión, que impide conocer con precisión la distancia a un objeto, los sensores de ultrasonidos son ampliamente empleados. 
