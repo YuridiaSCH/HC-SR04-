@@ -54,7 +54,7 @@ El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse
 - En robótica es habitual montar uno o varios de estos sensiores, por ejemplo, para detección de obstáculos, determinar la posición del robot, crear mapas de entorno, o resolver laberintos.
  
  ![](https://i.ytimg.com/vi/AyE_ChkvvhY/maxresdefault.jpg)
- 
+
  ## 🔴 Desventajas ❌ 
 - Los sensores de ultrasonidos son sensores de baja precisión. 
 - La orientación de la superficie a medir puede provocar que la onda se refleje, falseando la medición. 
