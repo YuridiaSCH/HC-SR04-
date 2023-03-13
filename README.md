@@ -9,8 +9,7 @@
 ![](https://howtomechatronics.com/wp-content/uploads/2022/02/HC-SR04-Ultrasonic-Sensor-3D-Model.jpg)
 
 ##  👩🏻‍🏫  Caracteristicas ✒️
-> Costo: $14 - $60 Pesos.
-
+- Costo: $14 - $60 Pesos.
 - Voltaje de Operación: 5V DC
 - Corriente de reposo: < 2mA
 - Corriente de trabajo: 15mA
@@ -48,8 +47,8 @@ El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse
 ![](https://uelectronics.com/wp-content/uploads/2017/06/AR0008-Sensor-Ultrasonico-V4.jpg)
 
 ##  📝 Formula para Calcular la Distancia en la que se Encuentra un Objeto 📏 
-![]([formula.png](https://uelectronics.com/wp-content/uploads/2017/06/AR0008-Sensor-Ultrasonico-V5.jpg))
- 
+![](https://uelectronics.com/wp-content/uploads/2017/06/AR0008-Sensor-Ultrasonico-V5.jpg)
+
  ## 🟢 Ventajas  ✅ 
 - Pese a esta baja precisión, que impide conocer con precisión la distancia a un objeto, los sensores de ultrasonidos son ampliamente empleados. 
 - En robótica es habitual montar uno o varios de estos sensiores, por ejemplo, para detección de obstáculos, determinar la posición del robot, crear mapas de entorno, o resolver laberintos.
