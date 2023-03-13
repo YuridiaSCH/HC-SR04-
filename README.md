@@ -50,13 +50,13 @@ El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse
 ##  📝 Formula para Calcular la Distancia en la que se Encuentra un Objeto 📏 
 ![](https://www.luisllamas.es/wp-content/uploads/2015/06/sensor-ultrasonico-explicacion.png)
  
- ##  🟢 Ventajas  ✅ 
+ ## 🟢 Ventajas  ✅ 
 - Pese a esta baja precisión, que impide conocer con precisión la distancia a un objeto, los sensores de ultrasonidos son ampliamente empleados. 
 - En robótica es habitual montar uno o varios de estos sensiores, por ejemplo, para detección de obstáculos, determinar la posición del robot, crear mapas de entorno, o resolver laberintos.
  
  ![](https://i.ytimg.com/vi/AyE_ChkvvhY/maxresdefault.jpg)
  
- ##  🔴 Desventajas ❌ 
+ ## 🔴 Desventajas ❌ 
 - Los sensores de ultrasonidos son sensores de baja precisión. 
 - La orientación de la superficie a medir puede provocar que la onda se refleje, falseando la medición. 
 - No resultan adecuados en entornos con gran número de objetos, dado que el sonido rebota en las superficies generando ecos y falsas mediciones. 
@@ -64,7 +64,7 @@ El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse
  
  ![](https://www.masliviano.cl/wp-content/uploads/2016/11/picnic2-620x264.jpg)
  
- ##  🛠️ Aplicaciones 👩🏻‍🔧 
+ ## 🛠️ Aplicaciones 👩🏻‍🔧 
  
 - Los sensores ultrasónicos industriales se utilizan principalmente como sensores de proximidad. 
 - Se pueden encontrar en estacionamientos automáticos, en los sistemas de seguridad anticolisión de los automóviles. 
