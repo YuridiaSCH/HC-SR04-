@@ -57,8 +57,7 @@ El tiempo que tarda la onda sonora en ir y regresar a un objeto puede utilizarse
  ![](https://i.ytimg.com/vi/AyE_ChkvvhY/maxresdefault.jpg)
  
  ##  🔴 Desventajas ❌ 
-
--Los sensores de ultrasonidos son sensores de baja precisión. 
+- Los sensores de ultrasonidos son sensores de baja precisión. 
 - La orientación de la superficie a medir puede provocar que la onda se refleje, falseando la medición. 
 - No resultan adecuados en entornos con gran número de objetos, dado que el sonido rebota en las superficies generando ecos y falsas mediciones. 
 - Tampoco son apropiados para el funcionamiento en el exterior y al aire libre.
