@@ -112,7 +112,7 @@ def ultra():
 
 ## 🏁  Link de Woki ⚡
 
-> [Simulacion del Sensor](https://wokwi.com/projects/358611935046736897)
+> [Link a la Simulación del Sensor](https://wokwi.com/projects/358611935046736897)
 
 ![](wokwi.png)
 
